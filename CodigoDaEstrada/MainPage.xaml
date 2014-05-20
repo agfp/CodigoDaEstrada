@@ -1,0 +1,76 @@
+﻿<Page
+    x:Class="CodigoDaEstrada.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CodigoDaEstrada"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.Resources>
+        
+        <DataTemplate x:Key="DataTemplate1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="160"/>
+                    <ColumnDefinition Width="70"/>
+                    <ColumnDefinition Width="50"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Text="{Binding Data}" Foreground="{Binding Cor}" Grid.Column="0" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                <TextBlock Text="{Binding Categoria}" Foreground="{Binding Cor}" Grid.Column="1" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+                <TextBlock Text="{Binding Pontos}" Foreground="{Binding Cor}" Grid.Column="2" HorizontalAlignment="Center" Margin="0,10,0,0"/>
+            </Grid>
+        </DataTemplate>
+        <Style x:Key="ListViewItemStyle" TargetType="ListViewItem">
+            <!--<Setter Property="HorizontalContentAlignment" Value="Stretch"/>-->
+            <Setter Property="Margin" Value="0"/>
+        </Style>
+        <Style x:Key="TextBlockStyle1" TargetType="TextBlock"/>
+    </Page.Resources>
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="Código da Estrada" VerticalAlignment="Center" Margin="50,0,0,0" Style="{StaticResource PageHeaderTextStyle}"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button x:Name="btnMota" HorizontalAlignment="Stretch" BorderThickness="0" VerticalAlignment="Stretch" Margin="0,0,0,30" FontSize="48" FontWeight="Light" Padding="30,10" Click="btnMota_Click" >
+                	<Image Height="109" Source="Imagens/Mota.png" Stretch="Fill" Width="225"/>
+                </Button>
+                <Button x:Name="btnCarro" HorizontalAlignment="Stretch" BorderThickness="0" VerticalAlignment="Stretch" Margin="0,30" FontSize="48" FontWeight="Light" Padding="30,10" Click="btnCarro_Click" >
+                	<Image Height="107" Source="Imagens/Carro.png" Stretch="Fill" Width="275"/>
+                </Button>
+                <Button x:Name="btnPesados" HorizontalAlignment="Stretch" BorderThickness="0" VerticalAlignment="Stretch" Margin="0,30,0,0" FontSize="48" FontWeight="Light" Padding="30,10" Click="btnPesados_Click">
+                	<Image Height="117" Source="Imagens/Pesado.png" Stretch="Fill" Width="218"/>
+                </Button>
+            </StackPanel>
+            <Border Grid.Column="1" Background="#FF424242" Margin="0,50,0,50" CornerRadius="20" Width="300" HorizontalAlignment="Center" >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="80"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="50"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="Pontuação" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="32" Foreground="#FFFFFFFF"/>
+                    <ListView Name="lvPontuacoes" ItemTemplate="{StaticResource DataTemplate1}" Grid.Row="1" HorizontalAlignment="Center"  SelectionMode="None" ItemContainerStyle="{StaticResource ListViewItemStyle}" />
+                    <Button Grid.Row="2" Name="btnLimpar" VerticalAlignment="Center" HorizontalAlignment="Center" Click="btnLimpar_Click">Limpar pontos</Button>
+                </Grid>
+            </Border>
+            <TextBlock HorizontalAlignment="Left" Height="25" Margin="495,314,0,0" TextWrapping="Wrap" Text="Categoria B" VerticalAlignment="Top" Width="166" Style="{StaticResource BodyTextStyle}"/>
+            <TextBlock HorizontalAlignment="Left" Height="33" Margin="481,103,0,0" TextWrapping="Wrap" Text="Categoria A" VerticalAlignment="Top" Width="177" Style="{StaticResource BodyTextStyle}"/>
+            <TextBlock HorizontalAlignment="Left" Height="33" Margin="493,504,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="255" Style="{StaticResource BodyTextStyle}" Grid.ColumnSpan="2">
+            	<Run Text="Categoria "/>
+            	<Run Text="C"/>
+            </TextBlock>
+
+        </Grid>
+
+    </Grid>
+</Page>

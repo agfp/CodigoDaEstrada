@@ -1,0 +1,806 @@
+<app>
+    <Carro>
+        <Questao>
+            <Pergunta>Na tarefa da condução, a avaliação que cada condutor faz do risco, depende muito da sua atitude.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Imagem>carro1.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Nesta situação, se puder aumentar a velocidade a distância de segurança deve:</Pergunta>
+            <Resposta>Aumentar.</Resposta>
+            <Errado>Diminuir.</Errado>
+            <Errado>Manter-se.</Errado>
+            <Imagem>carro2.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>A indicação dada pelo agente regulador de trânsito destina-se:</Pergunta>
+            <Resposta>A indicar ao trânsito à sua retaguarda o dever de parar.</Resposta>
+            <Errado>A fazer parar o trânsito.</Errado>
+            <Errado>A mandar avançar o trânsito.</Errado>
+            <Imagem>carro3.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Como devo proceder perante a luz vermelha dos sinais luminosos?</Pergunta>
+            <Resposta>Parar.</Resposta>
+            <Errado>Parar e avançar depois de ceder a passagem a outros veículos.</Errado>
+            <Errado>Reduzir a velocidade e avançar com toda a precaução.</Errado>
+            <Imagem>carro4.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Como devo proceder na presença deste sinal vertical?</Pergunta>
+            <Resposta>Circular com velocidade moderada.</Resposta>
+            <Errado>Circular junto ao eixo da faixa de rodagem.</Errado>
+            <Errado>Fazer uso das luzes de perigo.</Errado>
+            <Imagem>carro5.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Este sinal indica-me a proximidade de uma:</Pergunta>
+            <Resposta>Sucessão de curvas perigosas, sendo a primeira à esquerda.</Resposta>
+            <Errado>Curva à direita e contracurva.</Errado>
+            <Errado>Sucessão de curvas perigosas, sendo a primeira à direita.</Errado>
+            <Imagem>carro6.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Após o sinal é permitido:</Pergunta>
+            <Resposta>Estacionar nos locais a esse fim destinados.</Resposta>
+            <Errado>Estacionar em segunda fila.</Errado>
+            <Errado>Estacionar na faixa de rodagem junto aos veículos brancos.</Errado>
+            <Imagem>carro7.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Qual destes veículos pode transitar, para além do sinal?</Pergunta>
+            <Resposta>Um quadriciclo.</Resposta>
+            <Errado>Um velocípede.</Errado>
+            <Errado>Um motociclo simples.</Errado>
+            <Imagem>carro8.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Devo circular nesta via de trânsito?</Pergunta>
+            <Resposta>Sim, excepto para ultrapassar.</Resposta>
+            <Errado>Não, se circular a 70 km/h.</Errado>
+            <Errado>Não, se circular a 90 km/h.</Errado>
+            <Imagem>carro9.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Na via de trânsito em que circulo, estou correctamente posicionado para seguir para o Porto.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Imagem>carro10.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>A partir da sinalização existente na via sei que:</Pergunta>
+            <Resposta>Não posso inverter o sentido de marcha.</Resposta>
+            <Errado>Posso inverter o sentido de marcha porque a linha descontínua permite.</Errado>
+            <Imagem>carro11.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>A que distância posso encontrar repetida esta demarcação miriamétrica da via?</Pergunta>
+            <Resposta>Em cada 10 quilómetros percorridos.</Resposta>
+            <Errado>Em cada 100 metros percorridos.</Errado>
+            <Errado>Em cada quilómetro percorrido.</Errado>
+            <Imagem>carro12.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Perante a seta marcada no pavimento devo:</Pergunta>
+            <Resposta>Manter-me na via de trânsito em que circulo.</Resposta>
+            <Errado>Reduzir a velocidade.</Errado>
+            <Errado>Mudar de direcção à direita.</Errado>
+            <Imagem>carro13.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>A ambulância encontra-se numa via de abrandamento?</Pergunta>
+            <Resposta>Errado.</Resposta>
+            <Errado>Certo.</Errado>
+            <Imagem>carro14.gif</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Ao transitar nesta via de trânsito cometo uma infracção?</Pergunta>
+            <Resposta>Sim, se não estiver a ultrapassar.</Resposta>
+            <Errado>Não, porque existem três vias no mesmo sentido.</Errado>
+            <Errado>Sim, independentemente de estar ou não a ultrapassar.</Errado>
+            <Imagem>carro15.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Nesta situação devo:</Pergunta>
+            <Resposta>Parar e esperar que o condutor conclua a manobra.</Resposta>
+            <Errado>Avançar passando para a via da esquerda.</Errado>
+            <Errado>Utilizar os sinais sonoros.</Errado>
+            <Imagem>carro16.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Se a intensidade de trânsito aumentar, devo mudar para a via de trânsito mais à direita?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim, mas com prudência.</Errado>
+            <Imagem>carro17.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Como devo proceder se, devido ao nevoeiro intenso, me vir obrigado a reduzir subitamente a velocidade?</Pergunta>
+            <Resposta>Ligar as luzes avisadoras de perigo.</Resposta>
+            <Errado>Encostar-me o mais possível ao eixo da faixa de rodagem.</Errado>
+            <Errado>Fazer o sinal gestual indicativo da intenção de parar.</Errado>
+            <Imagem>carro18.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Considera correcto o comportamento do peão?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim, considerando que os peões não têm deveres enquanto utentes da via pública.</Errado>
+            <Errado>Sim, porque está muito próximo do local assinalado para a sua travessia.</Errado>
+            <Imagem>carro19.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Neste local, posso circular a 80 Km/h?</Pergunta>
+            <Resposta>Sim.</Resposta>
+            <Errado>Não.</Errado>
+            <Imagem>carro20.gif</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Neste local devo circular com velocidade especialmente moderada.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Imagem>carro21.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O condutor do veículo preto já se encontra no meio da intersecção. O que deve fazer?</Pergunta>
+            <Resposta>Avançar, terminando assim a sua passagem na intersecção.</Resposta>
+            <Errado>Recorrer à marcha atrás para me ceder a passagem.</Errado>
+            <Errado>Parar no meio da intersecção, porque eu devo avançar em primeiro lugar.</Errado>
+            <Imagem>carro22.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Perante a sinalização vertical existente nesta via pública devo saber que:</Pergunta>
+          <Resposta>Devo ceder a passagem ao veículo que circula em sentido contrário.</Resposta>
+            <Errado>Cede sempre a passagem o veículo que chega depois ao estreitamento da via.</Errado>
+            <Errado>O veículo que desce deve ceder-me a passagem.</Errado>
+            <Imagem>carro23.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Nesta passagem estreita, porque estou mais perto do local em que o cruzamento é possível, devo ser eu a recuar.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Imagem>carro24.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Devo iniciar a manobra de ultrapassagem?</Pergunta>
+            <Resposta>Não, porque transitam veículos em sentido contrário.</Resposta>
+            <Errado>Sim, desde que o faça rapidamente, utilizando para isso os sinais sonoros.</Errado>
+            <Errado>Não, porque a marca rodoviária não me permite executar a manobra.</Errado>
+            <Imagem>carro25.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Posso mudar de direcção para a direita no próximo entroncamento?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim, devendo sinalizar correctamente a manobra.</Errado>
+            <Errado>Sim, porque no próximo entroncamento não vigora qualquer proibição.</Errado>
+            <Imagem>carro26.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Nesta passagem de nível é permitido inverter o sentido de marcha.</Pergunta>
+            <Resposta>Errado.</Resposta>
+            <Errado>Certo.</Errado>
+            <Imagem>carro27.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>A manobra de marcha atrás é permitida neste local?</Pergunta>
+            <Resposta>Não, a manobra é sempre proibida.</Resposta>
+            <Errado>Sim, mas apenas como manobra auxiliar e no menor trajecto possível.</Errado>
+            <Errado>Sim, mas apenas se for necessário recuar até ao local onde se 
+            encontra o telefone de emergência.</Errado>
+            <Imagem>carro28.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Posso fazer marcha-atrás na rotunda de que me aproximo?</Pergunta>
+            <Resposta>Não, em circunstância alguma.</Resposta>
+            <Errado>Sim, mas apenas se não houver trânsito.</Errado>
+            <Errado>Sim, se a visibilidade for suficiente.</Errado>
+            <Imagem>carro29.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>É permitido o estacionamento na faixa de rodagem.</Pergunta>
+            <Resposta>Errado.</Resposta>
+            <Errado>Certo.</Errado>
+            <Imagem>carro30.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Consideram-se automóveis ligeiros:</Pergunta>
+            <Resposta>Os automóveis com lotação até 9 lugares e cujo peso bruto não exceda 3.500 kg.</Resposta>
+            <Errado>Os automóveis cuja lotação não exceda 10 lugares.</Errado>
+            <Errado>Todos os automóveis até 4500 kg.</Errado>
+            <Imagem>carro31.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Um automóvel cujo peso bruto seja 4500 Kg pode ser considerado um automóvel ligeiro?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim.</Errado>
+            <Imagem>carro32.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Este veículo pesado pode ter 4,2 m de altura?</Pergunta>
+           <Resposta>Não.</Resposta>
+            <Errado>Sim.</Errado>
+            <Imagem>carro33.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Amortecedores em mau estado de conservação originam:</Pergunta>
+            <Resposta>Perda de aderência.</Resposta>
+            <Errado>Diminuição da distância de paragem.</Errado>
+            <Errado>Aumento da velocidade.</Errado>
+            <Imagem>carro34.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O veículo de tracção animal é considerado um automóvel, se tiver quatro rodas?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim.</Errado>
+            <Errado>Sim, se o seu peso não ultrapassar os 550 Kg.</Errado>
+            <Imagem>carro35.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O veículo que circula à minha frente:</Pergunta>
+            <Resposta>É um veículo de marcha lenta.</Resposta>
+            <Errado>Não pode transitar na via pública.</Errado>
+            <Errado>É destinado ao transporte de passageiros.</Errado>
+            <Imagem>carro36.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O triângulo de pré-sinalização de perigo está correctamente colocado?</Pergunta>
+            <Resposta>Não, porque não se encontra colocado no pavimento a, pelo menos, 30 m da retaguarda do veículo.</Resposta>
+            <Errado>Sim, porque o automóvel está imobilizado.</Errado>
+            <Errado>Sim, porque assinala claramente o obstáculo.</Errado>
+            <Imagem>carro37.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>É obrigatória a utilização do triângulo, quando:</Pergunta>
+            <Resposta>O veículo ou carga imobilizados na faixa de rodagem, não forem visíveis a 100 metros.</Resposta>
+            <Errado>O sistema de luzes do veículo imobilizado estiver avariado.</Errado>
+            <Errado>O veículo imobilizado não for visível a 200 metros.</Errado>
+            <Imagem>carro38.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Os automóveis podem circular sem dispositivo destinado a tornar silencioso o motor?</Pergunta>
+            <Resposta>Não, não podem.</Resposta>
+            <Errado>Sim, se forem ligeiros e não transitarem dentro das localidades.</Errado>
+            <Errado>Sim, se estiverem equipados com motor diesel.</Errado>
+            <Imagem>carro39.jpg</Imagem>
+        </Questao>
+       <Questao>
+            <Pergunta>Num veículo de passageiros sem cintos de segurança no banco da retaguarda, a partir de que idade é permitido transportá-las no banco da frente?</Pergunta>
+            <Resposta>3 anos</Resposta>
+            <Errado>Não há limite de idade.</Errado>
+            <Errado>5 anos</Errado>
+            <Imagem>carro40.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Consideram-se automóveis ligeiros:</Pergunta>
+            <Resposta>Os automóveis com lotação até 9 lugares e cujo peso bruto não exceda 3.500 kg.</Resposta>
+            <Errado>Os automóveis cuja lotação não exceda 10 lugares.</Errado>
+            <Errado>Todos os automóveis até 4500 kg.</Errado>
+            <Imagem>carro41.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>O velocímetro indica:</Pergunta>
+            <Resposta>A velocidade instantânea.</Resposta>
+            <Errado>A velocidade média.</Errado>
+            <Errado>A velocidade máxima a transitar no local.</Errado>
+            <Imagem>carro42.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>O tipo de combustível a utilizar no veículo, deve ser o referido pelo seu construtor?</Pergunta>
+            <Resposta>Sim, é ele quem indica qual o combustível a utilizar.</Resposta>
+            <Errado>Não, quem decide qual o combustível a utilizar é o condutor.</Errado>
+            <Errado>Não, quem decide qual o combustível a utilizar é sempre o proprietário.</Errado>
+            <Imagem>carro43.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Na circulação rodoviária deve ser utilizada uma condução económica.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Imagem>carro44.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Para uma condução segura, é necessário que o veículo tenha um bom funcionamento.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Imagem>carro45.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>A verificação do nível do óleo pode ser feita pelo condutor?</Pergunta>
+            <Resposta>Sim, desde que saiba a forma correcta de o verificar.</Resposta>
+            <Errado>Não, porque esta verificação só pode ser feita por técnicos especializados.</Errado>
+            <Errado>Sim, desde que mantenha o motor do veículo a trabalhar.</Errado>
+            <Imagem>carro46.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Ao prestar auxílio em caso de acidente e se houver suspeita de fractura nas costas da vítima devo evitar movê-la para outro local. Concorda com a afirmação?</Pergunta>
+            <Resposta>Sim.</Resposta>
+            <Errado>Não, salvo se houver suspeita de fractura no pescoço.</Errado>
+            <Errado>Não.</Errado>
+            <Imagem>carro47.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>É obrigatória a utilização do cinto de segurança:</Pergunta>
+            <Resposta>Dentro e fora das localidades.</Resposta>
+            <Errado>Somente dentro das localidades.</Errado>
+            <Errado>Somente fora das localidades.</Errado>
+            <Imagem>carro48.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>A inspecção peródica obrigatória é efectuada:</Pergunta>
+            <Resposta>Em qualquer centro de inspecções devidamente acreditado.</Resposta>
+            <Errado>Num centro de inspecções localizado no concelho da área de residência do condutor.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>carro49.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>O condutor tem um papel fundamental na preservação do meio ambiente?</Pergunta>
+            <Resposta>Sim, porque deve contribuir para evitar a sua degradação.</Resposta>
+            <Errado>Sim, se não ultrapassar os limites de velocidade.</Errado>
+            <Errado>Não, são atribuições que competem a outras entidades.</Errado>
+            <Imagem>carro50.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>O condutor do veículo que emita ruído superior ao determinado por lei :</Pergunta>
+            <Resposta>Deve primeiro mandar reparar o sistema de escape para poder circular.</Resposta>
+            <Errado>Só pode circular fora das localidades.</Errado>
+            <Errado>Só pode circular a menos de 60Km/h.</Errado>
+            <Imagem>carro50.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Quando um condutor verificar que o seu veículo produz demasiado fumo, deve reparar a anomalia:</Pergunta>
+            <Resposta>O mais rapidamente possível.</Resposta>
+            <Errado>Só no caso dos fumos serem negros.</Errado>
+            <Errado>Somente antes de se apresentar à próxima inspecção periódica obrigatória.</Errado>
+            <Imagem>carro51.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>A carga de um veículo pode ultrapassar, na largura, o espaço reservado para a mesma?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim, desde que não exceda 20 cm.</Errado>
+            <Errado>Sim, desde que não exceda 10 cm.</Errado>
+            <Imagem>carro52.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Em qualquer automóvel de mercadorias, a carga deve ser disposta de modo a que:</Pergunta>
+            <Resposta>Seja assegurado o equilíbrio do veículo, parado ou em marcha.</Resposta>
+            <Errado>Fique livre o maior espaço possível à retaguarda da caixa de carga.</Errado>
+            <Errado>O principal peso fique sobre o eixo da retaguarda.</Errado>
+            <Imagem>carro53.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Seja assegurado o equilíbrio do veículo, parado ou em marcha.</Pergunta>
+            <Resposta>Sim, se o automóvel não dispuser de cintos de segurança no banco da retaguarda .</Resposta>
+            <Errado>Sim, desde que o banco na retaguarda esteja ocupado com a carga.</Errado>
+            <Errado>Sim, se os bancos da retaguarda forem longitudinais</Errado>
+            <Imagem>carro40.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Na colocação e disposição da carga deverá atender-se a que:</Pergunta>
+            <Resposta>Não seja excedida a altura máxima de 4 metros.</Resposta>
+            <Errado>Não seja excedida a altura máxima de 3,5 metros.</Errado>
+            <Errado>Não seja excedida a altura máxima de 4,5 metros.</Errado>
+            <Imagem>carro53.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>A distribuição da carga num veículo deve ser feita:</Pergunta>
+            <Resposta>De forma a garantir o equilíbrio do veículo, parado e em marcha.</Resposta>
+            <Errado>Da forma mais fácil para a descarga.</Errado>
+            <Errado>Sem cuidados especiais.</Errado>
+            <Imagem>carro54.jpg</Imagem>
+        </Questao>
+         <Questao>
+            <Pergunta>Os sistemas de retenção devem ser adequados ao tamanho e à idade da criança.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>carro55.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>O cinto de segurança deve ser considerado um elemento de:</Pergunta>
+            <Resposta>Segurança passiva.</Resposta>
+            <Errado>Segurança activa.</Errado>
+            <Imagem>carro56.jpg</Imagem>
+        </Questao>
+    </Carro>
+  <Mota>
+    <Questao>
+      <Pergunta>Na condução nocturna deve:</Pergunta>
+      <Resposta>Utilizar roupa reflectorizada.</Resposta>
+      <Errado>Conduzir sempre em 'máximos'.</Errado>
+      <Errado>Fazer sinais com os braços.</Errado>
+      <Imagem>mota1.jpg</Imagem>
+    </Questao>
+      <Questao>
+      <Pergunta>Na condução de um motociclo, as botas a utilizar:</Pergunta>
+      <Resposta>Devem ter a sola rugosa, em borracha ou noutro material idêntico.</Resposta>
+      <Errado>Devem ter a sola lisa e em borracha.</Errado>
+      <Errado>Devem ter a sola lisa e em fibra de borracha.</Errado>
+      <Imagem>mota2.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>Em condução nocturna devo utilizar, se possível, vestuário com equipamento retroreflector.</Pergunta>
+      <Resposta>Certo.</Resposta>
+      <Errado>Errado.</Errado>
+      <Errado>Resposta errada 1 - 2</Errado>
+      <Imagem>mota3.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>A cinta abdominal deve ser usada apenas pelos condutores de motociclos com problemas na coluna?</Pergunta>
+      <Resposta>Não.</Resposta>
+      <Errado>Sim.</Errado>
+      <Errado>Resposta errada 1 - 2</Errado>
+      <Imagem>mota4.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>A segurança activa de um motociclo procura evitar o acidente e a segurança passiva procura reduzir as lesões que o acidente possa provocar no condutor e no passageiro.</Pergunta>
+      <Resposta>A afirmação é verdadeira.</Resposta>
+      <Errado>A afirmação é falsa.</Errado>
+      <Errado>Resposta errada 1 - 2</Errado>
+      <Imagem>mota5.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>Ainda que diminua a minha visibilidade, devo preferir um capacete com uma viseira mais escura para proteger do sol.</Pergunta>
+      <Resposta>A afirmação é falsa.</Resposta>
+      <Errado>A afirmação é verdadeira.</Errado>
+      <Errado>Resposta errada 1 - 2</Errado>
+      <Imagem>mota6.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>Ao circular numa auto-estrada um motociclista deve utilizar um capacete aberto porque é mais aerodinâmico.</Pergunta>
+      <Resposta>A afirmação é falsa.</Resposta>
+      <Errado>A afirmação é verdadeira.</Errado>
+      <Errado>Resposta errada 1 - 2</Errado>
+      <Imagem>mota7.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>As botas do motociclista devem, se possível:</Pergunta>
+      <Resposta>Proteger os tornozelos e os pés.</Resposta>
+      <Errado>Proteger só os pés.</Errado>
+      <Errado>Ter atacadores para uma maior segurança.</Errado>
+      <Imagem>mota8.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>As luvas a utilizar pelos condutores de motociclos têm como finalidade:</Pergunta>
+      <Resposta>Garantir a protecção das mãos durante a condução e em caso de acidente.</Resposta>
+      <Errado>Garantir somente a protecção das mãos em caso de acidente.</Errado>
+      <Errado>Garantir somente a temperatura adequada das mãos.</Errado>
+      <Imagem>mota9.jpg</Imagem>
+    </Questao>
+    <Questao>
+      <Pergunta>Na condução de um veículo de duas rodas o condutor deve:</Pergunta>
+      <Resposta>Usar botas sem atacadores.</Resposta>
+      <Errado>Usar luvas de lã.</Errado>
+      <Errado>Usar um blusão de cabedal bastante largo.</Errado>
+      <Imagem>mota10.jpg</Imagem>
+    </Questao>
+   <Questao>
+            <Pergunta>Os condutores com que me vou cruzar circulam correctamente?</Pergunta>
+            <Resposta>Não, porque seguem a par.</Resposta>
+            <Errado>Sim, porque usam o capacete.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota11.jpg</Imagem>
+        </Questao>
+       <Questao>
+            <Pergunta>Na condução dum motociclo, sempre que haja necessidade de reduzir a velocidade, o condutor deve garantir que o	motor:</Pergunta>
+            <Resposta>Acompanhe a redução, por forma a que a capacidade de esforço se coadune com a velocidade de circulação.</Resposta>
+            <Errado>Se mantenha em regimes de funcionamento susceptíveis de evitar a utilização dos travões.</Errado>
+            <Errado>Suporte, pelo menos, 98% do esforço necessário à redução da velocidade.</Errado>
+            <Imagem>mota12.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Neste motociclo posso transportar crianças:</Pergunta>
+            <Resposta>Com 7 anos.</Resposta>
+            <Errado>Com 3 anos.</Errado>
+            <Errado>Com 6 anos.</Errado>
+            <Imagem>transito.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Num motociclo de duas rodas, a posição do condutor em situação de vento deve ser:</Pergunta>
+            <Resposta>De considerável inclinação sobre o guiador.</Resposta>
+            <Errado>No sentido de evitar a inclinação sobre o guiador.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota14.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Num motociclo de duas rodas, uma incorrecta posição do condutor pode deslocar perigosamente o centro de gravidade do conjunto?</Pergunta>
+            <Resposta>Sim.</Resposta>
+            <Errado>Não.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota15.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Ao circular nesta via pública com nevoeiro intenso devo:</Pergunta>
+            <Resposta>Aumentar a distancia em relação ao veículo da frente para aumentar a minha visibilidade.</Resposta>
+            <Errado>Diminuir a distancia em relação ao veículo da frente para aumentar a minha visibilidade.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota16.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>O condutor deste ciclomotor procede correctamente?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota17.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Neste local, posso parar ou estacionar?</Pergunta>
+            <Resposta>Não.</Resposta>
+            <Errado>Sim.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota18.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Posso subir o passeio para passar os veículos que circulam à minha frente?</Pergunta>
+             <Resposta>Não.</Resposta>
+            <Errado>Sim.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota19.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Os condutores com que me vou cruzar circulam correctamente?</Pergunta>
+            <Resposta>Não, porque seguem a par.</Resposta>
+            <Errado>Sim, porque usam o capacete.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota20.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Na condução de um motociclo, o aumento significativo da velocidade implica:</Pergunta>
+            <Resposta>Diminuição do tempo para recolha de informação pertinente.</Resposta>
+            <Errado>Aumento do tempo de reacção e necessidade de menos espaço para imobilizar o veículo.</Errado>
+            <Errado>Aumento do tempo disponível para raciocinar e reagir.</Errado>
+            <Imagem>mota21.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Na situação da figura, em que conduzo um motociclo sem ABS, se necessitar de travar, devo:</Pergunta>
+            <Resposta>Utilizar os dois travões, exercendo uma maior pressão sobre o da frente.</Resposta>
+            <Errado>Utilizar apenas o travão de trás.</Errado>
+            <Errado>Utilizar só o travão da frente.</Errado>
+            <Imagem>mota22.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Regra geral, devo reduzir a velocidade na aproximação de uma curva, mas é de evitar a redução enquanto estou dentro dela.</Pergunta>
+            <Resposta>Certo.</Resposta>
+            <Errado>Errado.</Errado>
+            <Errado>Resposta errada 40 - 2</Errado>
+            <Imagem>mota23.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Um aumento progressivo de velocidade:</Pergunta>
+            <Resposta>Implica uma diminuição progressiva do campo visual.</Resposta>
+            <Errado>Implica um aumento progressivo do campo visual.</Errado>
+            <Errado>Não implica alterações no campo visual.</Errado>
+            <Imagem>mota24.jpg</Imagem>
+        </Questao>
+           <Questao>
+            <Pergunta>Ao descrever uma curva com um motociclo de duas rodas devo ter em atenção que:</Pergunta>
+            <Resposta>À medida que a velocidade aumenta deve aumentar a inclinação do veículo.</Resposta>
+            <Errado>À medida que a inclinação do veículo aumenta deve diminuir a velocidade.</Errado>
+            <Errado>À medida que a velocidade aumenta deve diminuir a inclinação do veículo.</Errado>
+            <Imagem>mota25.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Como devo proceder quando me aproximo de uma lomba?</Pergunta>
+            <Resposta>Transitar a velocidade especialmente moderada.</Resposta>
+            <Errado>Circular junto ao eixo da faixa de rodagem.</Errado>
+            <Errado>Circular sobre a guia do lado direito.</Errado>
+            <Imagem>mota26.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Das afirmações que se seguem, assinale a que entender como verdadeira:</Pergunta>
+            <Resposta>O asfalto em perfeitas condições garante bom nível de aderência.</Resposta>
+            <Errado>O asfalto em perfeitas condições garante bom nível de aderência e promove o aumento da distância de travagem.</Errado>
+            <Errado>O asfalto que revele bastante uso não influencia a distância de paragem, mas compromete a aderência.</Errado>
+            <Imagem>mota27.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Durante a condução urbana os condutores de motociclos devem:</Pergunta>
+            <Resposta>Evitar passar sobre tampas de esgoto.</Resposta>
+            <Errado>Acelerar sobre tampas de esgoto.</Errado>
+            <Errado>Travar bruscamente sobre tampas de esgoto.</Errado>
+            <Imagem>mota28.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Nesta situação, devo circular na pista obrigatória?</Pergunta>
+            <Resposta>Não, a pista é reservada aos velocípedes.</Resposta>
+            <Errado>Não, excepto se quiser mudar de direcção.</Errado>
+            <Errado>Sim, pois conduzo um veículo de duas rodas.</Errado>
+            <Imagem>mota29.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Nesta situação, em que vou passar sobre uma marca rodoviária, o que devo fazer?</Pergunta>
+            <Resposta>Manter a velocidade constante, enquanto estiver a passar sobre a marca rodoviária.</Resposta>
+            <Errado>Reduzir a velocidade com o auxílio do travão da frente, enquanto estiver a passar sobre a marca rodoviária.</Errado>
+            <Errado>Reduzir a velocidade com o auxílio do travão da retaguarda, enquanto estiver a passar sobre a marca rodoviária.</Errado>
+            <Imagem>mota30.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Quando seja permitido, ao subir da via para o passeio, o condutor do motociclo deve:</Pergunta>
+            <Resposta>Efectuar a manobra na perpendicular à via de trânsito.</Resposta>
+            <Errado>Efectuar a manobra na diagonal à via de trânsito.</Errado>
+            <Errado>Levantando a roda da frente.</Errado>
+            <Imagem>mota31.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Ao circular nesta via pública devo:</Pergunta>
+            <Resposta>Moderar a velocidade.</Resposta>
+            <Errado>Desligar o motor para que os travões funcionem melhor.</Errado>
+            <Errado>Travar ao curvar para aumentar a aderência.</Errado>
+            <Imagem>mota32.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Na condução de motociclos de duas rodas, o risco da perda de aderência é uma séria probabilidade:</Pergunta>
+            <Resposta>Durante a circulação em piso molhado ou com gelo.</Resposta>
+            <Errado>Em quaisquer circunstâncias devido à instabilidade destes veículos.</Errado>
+            <Errado>Sempre que a tara destes veículos é superior a 180Kg.</Errado>
+            <Imagem>mota33.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Na condução de um motociclo de duas rodas em curva e com piso molhado, a acção da força centrifuga potencia:</Pergunta>
+            <Resposta>A derrapagem.</Resposta>
+            <Errado>O aumento de aderência dos pneus ao solo.</Errado>
+            <Errado>O equilíbrio do veículo.</Errado>
+            <Imagem>mota34.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Nesta via pública estou obrigado a moderar a velocidade do motociclo?</Pergunta>
+            <Resposta>Sim, porque a via encontra-se em mau estado de conservação.</Resposta>
+            <Errado>Não, porque circulo fora de uma localidade.</Errado>
+            <Errado>Não.</Errado>
+            <Imagem>mota35.jpg</Imagem>
+        </Questao>
+             <Questao>
+            <Pergunta>Neste entroncamento de visibilidade reduzida devo:</Pergunta>
+            <Resposta>Circular com especial prudência e velocidade moderada.</Resposta>
+            <Errado>Ligar as luzes de estrada para ver e ser visto pelos restantes utentes.</Errado>
+            <Errado>Resposta errada 38 - 2</Errado>
+            <Imagem>mota36.jpg</Imagem>
+        </Questao>  
+  </Mota>
+  
+  <Pesados>
+    <Questao>
+            <Pergunta>Ao bascular a cabina avançada de um automóvel pesado de mercadorias, o operador deve certificarse:</Pergunta>
+            <Resposta>De que no espaço em frente ao veículo não se encontra qualquer pessoa ou objecto de volume considerável.</Resposta>
+            <Errado>Da boa qualidade do pavimento, por forma a evitar que a cabina embata no solo.</Errado>
+            <Errado>Da eventual existência de objectos soltos, uma vez que o motor deve permanecer em funcionamento.</Errado>
+            <Imagem>pesado1.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Nos conjuntos de veículos destinados ao transporte rodoviário de mercadorias, o acoplamento do semi-reboque com o veículo tractor pesado, é feito:</Pergunta>
+            <Resposta>Através de cavilha e da 'quinta roda' ou prato.</Resposta>
+            <Errado>Através de cavilhão que atravessa o olhal da lança que liga ao reboque.</Errado>
+            <Errado>Com recurso a 'concha' e eixo.</Errado>
+            <Imagem>pesado2.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Uma carga pouco volumosa, mas de grande peso, deve ser colocada:</Pergunta>
+            <Resposta>A meio da caixa de carga.</Resposta>
+            <Errado>Junto à cabina.</Errado>
+            <Errado>Sobre o eixo da retaguarda.</Errado>
+            <Imagem>pesado3.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>No transporte de mercadorias, deve ter-se em atenção que:</Pergunta>
+            <Resposta>O transporte não constitua perigo ou embaraço para os demais utentes da via, nem danifique o pavimento.</Resposta>
+            <Errado>O transporte não constitua actividade lucrativa nem danifique o pavimento.</Errado>
+            <Errado>O transporte não constitua perigo, podendo, no entanto, constituir algum embaraço para o trânsito.</Errado>
+            <Imagem>pesado4.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>No transporte de mercadorias em automóveis pesados, deve ter-se em consideração que:</Pergunta>
+            <Resposta>A carga não venha a cair sobre a via ou a oscilar, por forma a tornar perigoso o seu transporte.</Resposta>
+            <Errado>A carga não oscile para além dos contornos da caixa de carga.</Errado>
+            <Errado>A carga não oscile mais de 50 cm para cada um dos lados da caixa de carga.</Errado>
+            <Imagem>pesado5.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O facto de um veículo circular carregado, implica que a distância de paragem:</Pergunta>
+            <Resposta>Aumente.</Resposta>
+            <Errado>Diminua.</Errado>
+            <Errado>Não varie, já que o sistema de travagem mantém a plenitude da capacidade.</Errado>
+            <Imagem>pesado6.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Durante o transporte rodoviário de mercadorias em automóvel pesado, a falta da correspondente guia de transporte, constitui infracção imputável:</Pergunta>
+            <Resposta>Ao condutor, desde que o automóvel e a respectiva carga sejam de sua propriedade.</Resposta>
+            <Errado>Ao expedidor, desde que o automóvel e a respectiva carga sejam propriedade do condutor.</Errado>
+            <Errado>Ao destinatário, desde que o automóvel e a respectiva carga sejam propriedade do condutor.</Errado>
+            <Imagem>pesado7.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Durante o transporte de congelados, vigiar a temperatura do transporte é da responsabilidade:</Pergunta>
+            <Resposta>Do condutor.</Resposta>
+            <Errado>Do destinatário da mercadoria, já que o condutor não controla o sistema frigorifico.</Errado>
+            <Errado>Dos técnicos das inspecções económicas.</Errado>
+            <Imagem>pesado8.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Sempre que durante o transporte de mercadorias em automóvel pesado, parte da mercadoria venha a cair sobre a faixa de rodagem, o condutor deve:</Pergunta>
+            <Resposta>Promover a imediata remoção da mercadoria para fora da faixa de rodagem, desde que possível e seguro.</Resposta>
+            <Errado>Aguardar que o proprietário da mercadoria chegue ao local, mesmo que 
+            lhe seja possível e seguro retirar a mesma da faixa de rodagem.</Errado>
+            <Errado>Aguardar a presença dum representante da companhia de seguros, mesmo 
+            que lhe seja possível e seguro retirar a mercadoria da faixa de rodagem.</Errado>
+            <Imagem>pesado9.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>A distância de paragem de um veículo em circulação, quando carregado:</Pergunta>
+            <Resposta>Aumenta.</Resposta>
+            <Errado>Diminui, excepto nas descidas.</Errado>
+            <Errado>Aumenta, somente nas descidas.</Errado>
+            <Imagem>pesado10.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O comprimento máximo legalmente admitido para os automóveis pesados de mercadorias de 4 eixos, é:</Pergunta>
+            <Resposta>12 metros.</Resposta>
+            <Errado>10 metros.</Errado>
+            <Errado>11 metros.</Errado>
+            <Imagem>pesado11.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Para motores diesel de última geração, porque de elevada potência, sobrealimentados e sujeitos a regimes severos, são recomendados lubrificantes:</Pergunta>
+            <Resposta>Sintéticos.</Resposta>
+            <Errado>À base de óleos minerais normais.</Errado>
+            <Errado>À base de óleos monograduados aditivados.</Errado>
+            <Imagem>pesado12.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>A função do injector nos motores de ciclo diesel, é:</Pergunta>
+            <Resposta>Injectar/pulverizar o gasóleo na câmara de combustão.</Resposta>
+            <Errado>Injectar a gasolina na câmara de explosão.</Errado>
+            <Errado>Injectar a mistura combustível na quantidade e momento certos.</Errado>
+            <Imagem>pesado12.jpg</Imagem>
+        </Questao>
+        v
+        <Questao>
+            <Pergunta>Num veículo em marcha, com o motor em aceleração e equipado com embraiagem mecânica de disco único, esta não 'patina' por acção de:</Pergunta>
+            <Resposta>Impulso/pressão de mola ou molas, dando origem a resistência por atrito.</Resposta>
+            <Errado>Força produzida por macaco hidráulico, dando origem a resistência por atrito.</Errado>
+            <Errado>Impulso de bomba hidráulica, dando origem a resistência dinâmica.</Errado>
+            <Imagem>pesado14.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O quadro/estrutura utilizado nos modernos automóveis ligeiros de passageiros com bom desempenho dinâmico e com tracção dianteira, é designado por:</Pergunta>
+            <Resposta>Monobloco.</Resposta>
+            <Errado>Longarinas ou travessas.</Errado>
+            <Errado>Quadro de estrutura montada em tandem.</Errado>
+            <Imagem>pesado15.jpg</Imagem>
+        </Questao>
+        
+        <Questao>
+            <Pergunta>Os motores eléctricos para tracção são alimentados por:</Pergunta>
+            <Resposta>Corrente continua ou alternada.</Resposta>
+            <Errado>Corrente alternada ou quadrifásica.</Errado>
+            <Errado>Corrente contínua ou intercalar.</Errado>
+            <Imagem>pesado16.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Na condução de um veículo pesado totalmente carregado, o condutor antes de iniciar uma subida de forte inclinação, deve:</Pergunta>
+            <Resposta>Engrenar uma velocidade que lhe permita vencer toda a subida.</Resposta>
+            <Errado>Engrenar a prise, para, assim, vencer mais facilmente a inclinação.</Errado>
+            <Errado>Engrenar sempre a primeira velocidade.</Errado>
+            <Imagem>pesado17.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Por norma, o sistema de acoplamento/engate para reboque montado num automóvel pesado, integra:</Pergunta>
+            <Resposta>Uma cavilha que atravessa o olhal da lança com 40 ou 50 milímetros de diâmetro, entre outros.</Resposta>
+            <Errado>Uma cavilha que atravessa o olhal da lança com o diâmetro único de 40 mm.</Errado>
+            <Errado>Uma cavilha que atravessa o olhal da lança com o diâmetro único de 50 mm.</Errado>
+            <Imagem>pesado18.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>O peso bruto máximo legalmente admitido para um veículo de dois eixos, é:</Pergunta>
+            <Resposta>19 toneladas.</Resposta>
+            <Errado>26 toneladas.</Errado>
+            <Errado>32 toneladas.</Errado>
+            <Imagem>pesado19.jpg</Imagem>
+        </Questao>
+        <Questao>
+            <Pergunta>Os amortecedores em mau estado podem influênciar a distância de paragem?</Pergunta>
+            <Resposta>Sim, podem.</Resposta>
+            <Errado>Não, já que somente a distância de segurança é influenciada pelo mau estado dos amortecedores.</Errado>
+            <Errado>Sim. Contudo, não influenciam a distância de travagem.</Errado>
+            <Imagem>pesado20.jpg</Imagem>
+        </Questao>
+        
+        
+  </Pesados>
+</app>
